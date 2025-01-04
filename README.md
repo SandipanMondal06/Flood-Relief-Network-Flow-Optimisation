@@ -1,6 +1,4 @@
-# prompt: create one readme file for this project i will copy and paste it diretly
-
-# README for Disaster Relief Optimization Project
+# Disaster Relief Optimization Project
 
 This project uses a two-step optimization approach to model and solve a disaster relief resource allocation problem. The goal is to efficiently distribute essential resources (food, water, medicine, cloth) from supply nodes to demand nodes, prioritizing urgent needs and minimizing transportation costs.
 
